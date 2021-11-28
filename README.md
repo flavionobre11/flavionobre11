@@ -3,9 +3,11 @@
 
 - 🔥 Junior Web Developer and passionate about frontend design, applications and architecture 
 
-- 🔭 I’m currently working at [Tallos](https://tallos.com.br/)
+- 🔭 I’m currently working at [Tallos](https://tallos.com.br)
 
-- 💬 Ask me about **JavaScript, TypeScript, NodeJS, HTML, CSS**
+- 📝 I like to write posts to help the community on [Medium](https://medium.com/@flavionobre11)
+
+- 💬 Ask me about **JavaScript, TypeScript, NodeJS, HTML, CSS** and **VueJs 💚**
 
 <br><br>
 
@@ -29,6 +31,14 @@
 
 <br>
 
+## &nbsp;Recent Posts
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@flavionobre11/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@flavionobre11/0" alt="Recent Article 1"> 
+<br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@flavionobre11/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@flavionobre11/1" alt="Recent Article 2">
+
+<br>
+
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
@@ -37,6 +47,9 @@
 </a>
 <a href="https://instagram.com/flavionobre_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-flavionobre_-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://medium.com/@flavionobre11" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-flavionobre11-05122A?style=flat&logo=medium" alt="medium"/>
 </a>
 </p>
 

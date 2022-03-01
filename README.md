@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Tallos](https://tallos.com.br)
 
-- 📝 I like to write posts to help the community on [Medium](https://medium.com/@flavionobre11)
+- 📝 I like to write posts to help the community on [Instragram](https://www.instagram.com/flaviondev/), [LinkedIn](https://www.linkedin.com/in/flavionobree) and [Medium](https://medium.com/@flavionobre11)
 
 - 💬 Ask me about **JavaScript, TypeScript, NodeJS, HTML, CSS** and **VueJs 💚**
 

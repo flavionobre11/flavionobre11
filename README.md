@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Flavio Nobre</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flavionobre11&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flavionobredev&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer and passionate about frontend design, applications and architecture 
 
@@ -25,8 +25,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=flavionobre11&show_icons=true&theme=dracula" alt="flavionobre11's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavionobre11&layout=compact&theme=dracula" alt="flavionobre11's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=flavionobredev&show_icons=true&theme=dracula" alt="flavionobre11's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavionobredev&layout=compact&theme=dracula" alt="flavionobredev's most languages"/>
 </p>
 
 <br>

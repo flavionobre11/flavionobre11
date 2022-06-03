@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Flavio Nobre</h1>
+<h1 align="left">Hi, everyone!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flavionobredev&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer and passionate about frontend design, applications and architecture 

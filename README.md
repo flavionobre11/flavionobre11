@@ -46,11 +46,12 @@ Me chamo Flávio, desenvolvedor desde 2020 e profundamente apaixonado por tecnol
 
 <br><br>
 
-## Posts Recentes no Medium
+<!-- TODO: ocultando posts recentes por enquanto -->
+<!-- ## Posts Recentes no Medium
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@flavionobre11/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@flavionobre11/0" alt="Recent Article 1"> 
 <br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@flavionobre11/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@flavionobre11/1" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@flavionobre11/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@flavionobre11/1" alt="Recent Article 2"> -->
 
 <!-- ========== variables ========== -->
 

@@ -2,7 +2,7 @@
 
 ## Hi guys 👋
 
-Me chamo Flávio, desenvolvedor desde 2020 e profundamente apaixonado por tecnologias web e sistemas escaláveis. Atualmente trabalho na Tallos como Software Engineer. Além disso, produzo contéudos bastante interessantes para ajudar a comunidade dev!
+Me chamo Flávio, desenvolvedor desde 2020 e profundamente apaixonado por tecnologias web e sistemas escaláveis. Atualmente trabalho como Software Engineer. Além disso, produzo contéudos bastante interessantes para ajudar a comunidade dev!
 
 <br>
 

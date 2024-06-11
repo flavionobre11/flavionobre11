@@ -30,6 +30,7 @@ Me chamo Flávio, desenvolvedor desde 2020 e profundamente apaixonado por tecnol
 ![Nginx][Nginx]
 ![Shell][Shell] 
 ![MongoDB][MongoDB]
+![PostgreSQL][PostgreSQL]
 ![Redis][Redis]
 ![Grafana][Grafana]
 ![Prometheus][Prometheus]
@@ -75,6 +76,7 @@ Me chamo Flávio, desenvolvedor desde 2020 e profundamente apaixonado por tecnol
 [Nginx]: https://img.shields.io/badge/-Nginx-383332?style=flat-square&logo=nginx&logoColor=FFE316
 [Shell]: https://img.shields.io/badge/-Shell-383332?style=flat-square&logo=gnu-bash&logoColor=FFE316
 [MongoDB]: https://img.shields.io/badge/-MongoDB-383332?style=flat-square&logo=MongoDB&logoColor=FFE316
+[PostgreSQL]: https://img.shields.io/badge/-PostgreSQL-383332?style=flat-square&logo=postgresql&logoColor=FFE316
 [Redis]: https://img.shields.io/badge/-Redis-383332?style=flat-square&logo=redis&logoColor=FFE316
 [Grafana]: https://img.shields.io/badge/-Grafana-383332?style=flat-square&logo=grafana&logoColor=FFE316
 [Prometheus]: https://img.shields.io/badge/-Prometheus-383332?style=flat-square&logo=prometheus&logoColor=FFE316
